@@ -16,22 +16,6 @@ An interactive and educational **Data Structures & Algorithms Visualizer** that 
 
 ---
 
-## 📸 Screenshots
-
-### 🔢 Sorting Visualizer
-
-![Sorting Screenshot](./screenshots/sorting.png)
-
-### 🔍 Binary Search
-
-![Binary Search Screenshot](./screenshots/binary.png)
-
-### 🌳 Binary Search Tree
-
-![BST Screenshot](./screenshots/bst.png)
-
----
-
 ## ✨ Features
 
 ### 🔢 Sorting Algorithms
