@@ -11,8 +11,7 @@ An interactive and educational **Data Structures & Algorithms Visualizer** that 
 ---
 
 ## 🚀 Live Demo
-
-🔗 https://your-live-demo-link.com
+ Just run accordingly and get to the see demo...
 
 ---
 
@@ -98,8 +97,7 @@ An interactive and educational **Data Structures & Algorithms Visualizer** that 
 ```bash
 git clone https://github.com/your-username/dsa-visualizer.git
 cd dsa-visualizer
-npm install
-npm start
+python dsa_visualizer.py
 ```
 
 ---
